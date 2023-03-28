@@ -1,1 +1,1 @@
-# Project
+For this project, I played the role of General Manager of Airbnb Sydney. My responsibilities included overseeing the growth of vacation homes and condo rental services throughout Australia. The great thing about this project is that I had access to real-time Airbnb data, which included various tables and columns. 
